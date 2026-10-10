@@ -20,3 +20,7 @@ patterns, built from scratch, never client work.
 
 Writing up a library of cloud architecture decision records — the trade-offs behind
 choices I've made repeatedly on enterprise GCP estates.
+
+## Elsewhere
+
+- LinkedIn — [arjunsundaramoorthy](https://www.linkedin.com/in/arjunsundaramoorthy)
