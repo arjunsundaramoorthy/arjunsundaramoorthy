@@ -1,16 +1,22 @@
-## Hi there 👋
+# Arjun Sundaramoorthy
 
-<!--
-**arjunsundaramoorthy/arjunsundaramoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Solutions Architect — London**
+Google Cloud–first enterprise architecture · Landing zones · Platform engineering · Agentic AI
 
-Here are some ideas to get you started:
+I design and deliver enterprise cloud platforms — readiness assessments, target-state
+architecture, secure landing zones, and the governance that keeps adoption alive after
+the programme ends. 18 years in IT, 12 of them in enterprise cloud, currently at
+Cognizant in London leading delivery teams of up to 25 engineers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I publish reference architectures and design notes: generic
+patterns, built from scratch, never client work.
+
+## Focus
+
+`Google Cloud` · `AWS` · `Azure` · `Terraform` · `Kubernetes` · `Landing Zones` ·
+`Cloud Security` · `Cloud Adoption Framework` · `FinOps` · `Agentic AI`
+
+## Currently
+
+Writing up a library of cloud architecture decision records — the trade-offs behind
+choices I've made repeatedly on enterprise GCP estates.
